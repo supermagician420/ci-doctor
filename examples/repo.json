@@ -1,0 +1,12 @@
+{
+  "project": "demo-service",
+  "files": [
+    "README.md",
+    "LICENSE",
+    ".gitignore",
+    "app.py",
+    "test_app.py",
+    ".github/workflows/tests.yml"
+  ],
+  "workflows": ["tests.yml"]
+}

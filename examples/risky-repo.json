@@ -1,0 +1,11 @@
+{
+  "project": "risky-demo",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "app.py",
+    "test_app.py",
+    ".github/workflows/risky.yml"
+  ],
+  "workflows": ["risky-workflow.yml"]
+}
